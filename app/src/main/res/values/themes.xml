@@ -5,5 +5,19 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+
+    !-- My custom theme for splash screen activity -->
+
+    <style name="Theme.RemoveSplashScreenTheme" parent="Base.Theme.SuperRecipes">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Theme.SuperRecipes.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
     <style name="Theme.SuperRecipes" parent="Base.Theme.SuperRecipes" />
 </resources>
