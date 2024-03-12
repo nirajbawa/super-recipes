@@ -57,4 +57,7 @@
     <string name="already_have_an_account_login">Already have an account ? Login</string>
     <string name="don_t_have_an_account_register">Don\'t have an account ? Register</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="food_name">Food Name</string>
+    <string name="your_name">Your Name</string>
+    <string name="phone">Phone</string>
 </resources>
